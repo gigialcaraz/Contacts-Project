@@ -4,6 +4,4 @@ module AlcarazCorp {
     requires javafx.controls;
     opens sample;
 
-
-
 }
